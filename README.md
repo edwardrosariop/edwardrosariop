@@ -8,7 +8,7 @@ Soy un apasionado desarrollador de software con más de **9 años de experiencia
 
 ### 🚀 Lenguajes de programación  
 ![ABAP](https://img.shields.io/badge/ABAP-0A5EAB?style=for-the-badge&logo=sap&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)  
 ![SQL SERVER](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
