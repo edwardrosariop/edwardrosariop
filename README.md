@@ -44,6 +44,5 @@ Soy un apasionado desarrollador de software con más de **9 años de experiencia
 ## 📫 ¡Conéctate conmigo!  
 
 - 🌐 **[LinkedIn](https://www.linkedin.com/in/edward-rosario-2b5a511ab/)**  
-- 📧 **edward.rosario@example.com**  
 
 ✨ ¡Siempre estoy abierto a colaborar en nuevos proyectos y aprender tecnologías innovadoras!  
